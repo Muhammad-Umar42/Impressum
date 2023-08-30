@@ -25,6 +25,10 @@
 .box p{
     padding-bottom: 2px;
 }
+.heading{
+    font-size: 18px;
+    font-weight: 900;
+}
 
 @media screen and (max-width: 768px) {
     .termsTitle{
