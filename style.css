@@ -26,8 +26,11 @@
     padding-bottom: 2px;
 }
 .heading{
-    font-size: 18px;
+    font-size: 22px;
     font-weight: 900;
+}
+.Impressum{
+    font-size: 18px;
 }
 
 @media screen and (max-width: 768px) {
